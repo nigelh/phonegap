@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "nigelhole.com.phonegap.example"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Nigel Hole First Phonegap build</name>
+
+    <description>
+        An example for phonegap build. 
+    </description>
+
+    <author href="http://nigelhole.com" email="nigelh@hotmail.com">
+        Nigel Hole
+    </author>
+    
+    <gap:platform name="symbian" />
+
+</widget>
