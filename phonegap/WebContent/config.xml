@@ -18,5 +18,6 @@
     </author>
     
     <gap:platform name="symbian" />
+    <gap:platform name="android" />
 
 </widget>
